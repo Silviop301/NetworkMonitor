@@ -1,0 +1,6 @@
+{
+    "size_threshold": 1500,
+    "suspect_ports": [23, 3389, 445],
+    "log_rotation_size": 100,
+    "monitor_interface": "Ethernet"
+}
