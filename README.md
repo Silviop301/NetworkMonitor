@@ -12,7 +12,7 @@ Visualização de gráficos com distribuição de protocolos capturados.
 Relatórios em PDF com informações detalhadas de IPs suspeitos e anomalias.
 
 ### Instalação
-Clone o repositório: git clone [NotworkMonitor](https://github.com/Silviop301/NetworkMonitor)  
+Clone o repositório: git clone [NetworkMonitor](https://github.com/Silviop301/NetworkMonitor)  
 Instale as dependências: pip install -r requirements.txt
 
 ### Configuração
