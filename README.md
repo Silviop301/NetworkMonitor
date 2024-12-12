@@ -19,10 +19,10 @@ Instale as dependências: pip install -r requirements.txt
 Edite o arquivo config.json com os parâmetros desejados. Exemplo:
   
 {  
-    "size_threshold": 1500,  
+    "size_threshold": 1515,  
     "suspect_ports": [23, 3389, 445],  
     "log_rotation_size": 100,  
-    "monitor_interface": "eth0"  
+    "monitor_interface": "Ethernet"  
 }  
 
 Certifique-se de que o arquivo blacklist_ips.txt contém os IPs maliciosos que deseja monitorar.
